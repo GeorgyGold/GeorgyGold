@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgyGold
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DevOps and Cloud
+- 🌱 I’m currently learning Digital tranformation brought about by DevOps and Cloud at MIT
 - 💞️ I’m looking to collaborate on digital transformation
 - 📫 How to reach me on github @GeorgyGold
 
